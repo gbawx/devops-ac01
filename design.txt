@@ -1,4 +1,5 @@
 Criado por Guilherme Ruiz
-Editado por Lucas Sousa Silva 
+Editado por Lucas Sousa Silva
+Re-Editado por Guilherme Bergamo
 
-Vamos criar um aplicativo onde você escolhe o seu time do coração, e ele vai te notificar de tudo. Desde a escalação, até onde e sugestões de onde pode vai passar ou pode assistir o jogo.
+Vamos criar um aplicativo onde você escolhe o seu time do coração, e ele vai te notificar de tudo. Desde a escalação, até onde e sugestões de onde pode vai passar ou pode assistir o jogo,podendo participar também de promoções internas do clube do coração,com a premiação por brindes e muito mais.
