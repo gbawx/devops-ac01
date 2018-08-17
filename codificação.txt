@@ -1,3 +1,4 @@
+Auditado por Guilherme Ruiz, RA: 1800188
 Para fazer o desenvolvimento do aplicativo (App). Vamos usar as seguintes linguagens:
 
 - Python
