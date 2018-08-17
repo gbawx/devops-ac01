@@ -4,3 +4,6 @@ Para fazer o desenvolvimento do aplicativo (App). Vamos usar as seguintes lingua
 - Python
 - C#
 - Java
+- C Sharp
+- HTML5
+- CSS
