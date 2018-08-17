@@ -1,4 +1,6 @@
-auditado por Patrick de Assis Oliveira RA: 1800060
+auditado por Patrick de Assis Oliveira RA: 1800060 
+auditado por Mateus Henrique Soares Bastos RA: 1801191 
+
 Futebol
 
 Vamos criar um aplicativo onde você escolhe o seu time do coração, e ele vai te notificar de tudo. Desde a escalação, até onde e sugestões de onde pode vai passar ou pode assistir o jogo.
