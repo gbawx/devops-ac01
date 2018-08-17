@@ -1,5 +1,7 @@
+autitado por Patrick de Assis Oliveira RA: 1800060
 Futebol
 
-Vamos criar um aplicativo onde você escolhe o seu time do coração, e ele vai te notificar de tudo. Desde a escalação, até onde e sugestões de onde pode vai passar ou pode assistir o jogo.
+Vamos criar um aplicativo onde vocÃª escolhe o seu time do coraÃ§Ã£o, e ele vai te notificar de tudo. Desde a escalaÃ§Ã£o, atÃ© onde e sugestÃµes de onde pode vai passar ou pode assistir o jogo.
 
+podera ver todos as noticias do do seu time do coraÃ§Ã£o, como lista de transferencia e lista de jogadores lesionados ou suspensos
 OK
