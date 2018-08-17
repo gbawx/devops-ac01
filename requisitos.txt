@@ -1,1 +1,4 @@
-Futebol
+Auditado por Murilo Rodrigues Ruiz, RA: 1800430
+Os requisitos para o funcionamento do aplicativo (App). Necessita-se das informações dos times, escalações, campeonatos, tabelas, datas das partidas.
+
+Requisito para o acesso do usuário, será solicitado um e-mail válido e uma senha. 
